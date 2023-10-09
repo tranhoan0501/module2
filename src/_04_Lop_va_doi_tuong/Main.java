@@ -1,4 +1,4 @@
-package _04_Lop_va_doi_tuong.hinhchunhat;
+package _04_Lop_va_doi_tuong;
 
 import java.util.Scanner;
 

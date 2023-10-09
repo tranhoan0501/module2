@@ -1,4 +1,4 @@
-package _04_Lop_va_doi_tuong.hinhchunhat;
+package _04_Lop_va_doi_tuong;
 
 public class _lop_hinh_chu_nhat {
     double width, height;
